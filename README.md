@@ -1,12 +1,10 @@
 - 👋 Hi, I’m @DewmiSilvaa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-DewmiSilvaa/DewmiSilvaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in developing, coding, UI designing, and singing.
+- 🌱 I’m currently learning new web development technologies like React, Next.js, and improving my UI/UX design skills with Figma and Adobe tools.
+- 💞️ I’m looking to collaborate on open-source projects, especially in UI/UX design and full-stack development. I'm also open to contributing to educational platforms and interactive media.
+- 📫 How to reach me: You can reach me through my LinkedIn [@DewmiSilvaa](https://www.linkedin.com/in/dewmi-silva00/) or email me at dewmi78@gmail.com.
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love singing, playing musical instruments (especially the piano and guitar), and designing when I’m not coding. I enjoy combining creativity with technology!
+- 💡 Currently building a **productivity app** and a **real-time bus tracking and booking system**.
+- 🌍 Check out my projects on [GitHub](https://github.com/IT21161360).
+- 🎤 Fun Fact: I often sing and play music in my free time, which helps me stay balanced and creative!
